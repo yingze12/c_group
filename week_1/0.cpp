@@ -1,12 +1,14 @@
-// myfirst.cpp -- displays a message
-
+// input output
 #include <iostream>
+#include "fun_1.h"
+// using namespace std;
+
 int main()
 {
 	using namespace std;
-	cout << "Come up and C++ me some time.";
-	cout << endl;
-	cout << "You won't regret it!" << endl;
+	cout << "C++ print." << endl;
+	//std::cout << "C++ print." << std::endl;
+	my_print(8);
 
 	return 0;
 }
