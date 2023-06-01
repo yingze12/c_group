@@ -20,6 +20,7 @@ using namespace std;
 // 2. 大家在整理发布击笔记的时候,如果遇到不懂的问题或者自己觉得某处需要研讨研讨地方,
 // 请用"#TODU"来标明,就像我下面下面例子的一样!!!!!!!!!!!!!!!!!
 // 3. 经常关注github的变化
+// 4. 笔记命名格式为 "Number.note_Name.cpp",代表着谁的第几次笔记
 
 // // Abstract:
 // 目前为止,我们大概学了两大类型的数据,基本类型如:
@@ -171,7 +172,9 @@ using namespace std;
     //string str = "abc\0dss";//output=3
     //cout<<str.length()<<endl;//计算string类型的长度
     //cout<<str.size()<<endl;//两种方式都可以
+    
     //return 0;
+
 //}
 
 
